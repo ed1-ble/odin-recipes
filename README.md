@@ -1,2 +1,2 @@
 # odin-recipes
-yes
+https://ed1-ble.github.io/odin-recipes/index.html
